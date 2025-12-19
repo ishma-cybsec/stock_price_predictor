@@ -22,8 +22,6 @@ The Stock Price Viewer is a **fully browser-based tool** that lets you visualize
 4. Click **Show Prices**.  
 5. The interactive chart of **closing prices** for the last year will appear.
 
-**Screenshots / Demo:**  
-*(You can add a screenshot or GIF here to showcase your chart)*
 
 **Future Enhancements:**  
 - Add a **simple prediction algorithm** using moving averages  
